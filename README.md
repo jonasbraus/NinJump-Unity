@@ -4,7 +4,7 @@ Source code available under: https://github.com/jonasbraus/NinJump-Unity/tree/ma
 
 1. Download the apk file and install it on your android device:
 
-https://github.com/jonasbraus/NinJump-Unity/releases/download/1.0/NinJump.apk
+  https://github.com/jonasbraus/NinJump-Unity/releases/download/1.0/NinJump.apk
 
 2. At the moment there is only level 1 available (other levels will be empty)
 
